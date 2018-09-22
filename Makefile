@@ -2,7 +2,7 @@ SRC := src
 
 
 install:
-	poetry run install
+	poetry install
 
 
 init:
