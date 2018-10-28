@@ -7,8 +7,8 @@ authors = ["{{AUTHOR}}"]
 [tool.poetry.dependencies]
 python = "*"
 tornado = "<5"
-ipython = "^6.5"
-jupyterlab = "^0.34.12"
+ipython = "^7.1"
+jupyterlab = "^0.35.3"
 numpy = "^1.15"
 pandas = "^0.23.4"
 matplotlib = "^3.0"
@@ -16,6 +16,6 @@ altair = "^2.2"
 folium = "^0.6.0"
 
 [tool.poetry.dev-dependencies]
-pytest = "^3.0"
-flake8 = "^3.5"
-mypy = "^0.630.0"
+pytest = "^3.9"
+flake8 = "^3.6"
+mypy = "^0.641.0"
