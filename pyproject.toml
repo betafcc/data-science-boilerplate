@@ -5,7 +5,7 @@ description = ""
 authors = ["{{AUTHOR}}"]
 
 [tool.poetry.dependencies]
-python = "*"
+python = "^3.7"
 tornado = "<5"
 ipython = "^7.1"
 jupyterlab = "^0.35.3"
